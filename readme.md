@@ -355,7 +355,7 @@
 	* *for example, in the image linked above, E: 32/**122**, you should be looking at 122*
 	* *ideally, open your F3 Menu before entering your Nether Portal in the Overworld*
 * if you notice the E: Value quickly raises, you likely just loaded a Bastion into your Render Distance
-* if the sum of the M: & C: Values is ~30 higher than the E: Value, there is a Bastion within your Render Distance
+* if the sum of the M: & C: Values is ~30 lower than the E: Value, there is a Bastion within your Render Distance
 * To find the Bastion Direction, change your Fov to 30 then slowly turn 360°, and look at the **Left** [E: Value](https://i.imgur.com/w6WZlqf.webp)
 	* *as opposed to the previous example, in the image linked above, E: **32**/122, you should be looking at 32 this time*
 	* *High density Biomes can sometimes give false positives for Bastions, use (E + 30 ≈ M + C), for a better idea*
